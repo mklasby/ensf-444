@@ -11,9 +11,7 @@
 ### Repo tour
 * Labs will be placed in subdirectories name as `lab-#` where `#` is the lab number. There will be 9 labs in total.
 * Solutions to labs will be placed in `./solutions` as well as on D2L. 
-* Participation marks are awarded for labs. You have two options to receive the mark for each lab: 
-    1. Attend the lab as scheduled and write your name and UCID on google document that will be provided
-    2. Complete lab notebook *before* the scheduled lab and submit via email to me: mklasby AT ucalgary DOT ca
+* Participation marks are awarded for labs. Attend the lab as scheduled and write your name and UCID on google document that will be provided. 
 * `./data` is used to store datasets we will be using for the labs. Note that files contained in this directory will not be synced with remote repo. 
 
 ### Integration with Google Collab
