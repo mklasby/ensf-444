@@ -29,4 +29,4 @@ However, since we do not want to introduce any additional complexity to using th
 4. Now, you can pull in new updates from the repo by using the CLI command `git fetch --upstream`
 5. Make sure you checkout the `main` branch if you're using different branches. This can be done with the command `git checkout main`.
 6. Now we are finally ready to move our local commits to the tip of the upstream remote. This is known as "rebasing". Use the command `git rebase upstream/master`. 
-7. Finally, we push this new git history (our local commits move on top of remote updates) using the command `git push -f origin master`. Note that the "force" option `-f` is required as your local history will differ from the history on the remote origin (your github fork).
+7. Finally, we push this new git history (our local commits move on top of remote updates) using the command `git push -f`. Note that the "force" option `-f` is required as your local history will differ from the history on the remote origin (your github fork).
