@@ -8,7 +8,7 @@ dependencies:
   - matplotlib
   - pandas=2.*
   - numpy
-  - scikit-learn
+  - scikit-learn=1.4.*
   - jupyter
   - kaggle
   - xgboost=1.7.*
